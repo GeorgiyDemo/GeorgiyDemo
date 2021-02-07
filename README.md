@@ -1,1 +1,1 @@
-[![GeorgiyDemo's github stats](https://github-readme-stats.vercel.app/api?username=georgiydemo&show_icons=true)](https://github.com/GeorgiyDemo)
+[![GeorgiyDemo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GeorgiyDemo&layout=compact)](https://github.com/GeorgiyDemo)
